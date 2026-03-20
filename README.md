@@ -1,4 +1,4 @@
-# 🛠️ MAGIC Strategic Architect (By Alex)
+# 🛠️ MAGIC Framework Strategic Architect (By DaeJung KIM dreamjkdj@gmail.com)
 
 [**한글 설명**](#korean) | [**English Description**](#english)
 
@@ -8,7 +8,7 @@
 ## 🇰🇷 한글 설명 (Korean)
 
 ### 🌟 개요
-**MAGIC Strategic Architect**는 『AI 업무 혁명』 저자 알렉스(Alex)가 고안한 **'MAGIC 프레임워크'**를 클로드(Claude) 에이전트 환경(Co-Work 등)에서 시각적 대시보드로 구현한 독보적인 전략 수립 스킬입니다.
+**MAGIC Strategic Architect**는 DaeJung KIM dreamjkdj@gmail.com)이 고안한 **'MAGIC 프레임워크'**를 클로드(Claude) 에이전트 환경(Co-Work 등)에서 시각적 대시보드로 구현한 독보적인 전략 수립 스킬입니다.
 
 이 스킬은 단순히 정보를 시각화하는 것을 넘어, 모호한 아이디어를 냉철한 의사결정 기반의 **'실행 가능한 전략'**으로 강제 전환시킵니다. 피드백 지옥에서 탈출하고, 확신을 가지고 작업을 종료(Close)하고 싶다면 이 지휘소(War Room)를 가동하세요.
 
@@ -35,7 +35,7 @@
 ## 🇺🇸 English Description
 
 ### 🌟 Overview
-**MAGIC Strategic Architect** is a groundbreaking strategic planning skill that implements the **'MAGIC Framework'**, conceived by Alex, author of "AI Work Revolution," as a visual dashboard within the Claude Agent environment (such as Co-Work).
+**MAGIC Framework Strategic Architect (By DaeJung KIM dreamjkdj@gmail.com)** is a groundbreaking strategic planning skill that implements the **'MAGIC Framework'**, conceived by Alex, author of "AI Work Revolution," as a visual dashboard within the Claude Agent environment (such as Co-Work).
 
 Beyond mere information visualization, this skill forces ambiguous ideas into a cold, decision-based, **'executable strategy'**. If you want to escape feedback hell and terminate tasks (Close) with confidence, activate this War Room.
 
@@ -59,6 +59,6 @@ Upon receiving user input, it generates an interactive HTML dashboard on the spo
 ---
 
 ### 📘 About the Author & Framework
-This skill is based on the core philosophy of **Alex**, author of 『AI 업무 혁명』. All visual dashboards are designed to move from 'Opinion' to 'Decision'.
+This skill is based on the core philosophy of  Framework Strategic Architect (By DaeJung KIM dreamjkdj@gmail.com). All visual dashboards are designed to move from 'Opinion' to 'Decision'.
 
-© 2026 Alex. All rights reserved. MAGIC Framework is a trademark of Alex.
+© 2026 KIM DaeJung. All rights reserved. MAGIC Framework is a trademark of DaeJung KIM (dreamjkdj@gmail.com).
